@@ -1,4 +1,4 @@
-// BruteForceDB
+// BruteForceDB Search
 // Author: Sina Tashakkori, QVLx Labs
 
 extern crate fstream;
