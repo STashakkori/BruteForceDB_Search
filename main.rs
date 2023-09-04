@@ -1,3 +1,6 @@
+// BruteForceDB
+// Author: Sina Tashakkori, QVLx Labs
+
 extern crate fstream;
 extern crate walkdir;
 extern crate regex;
